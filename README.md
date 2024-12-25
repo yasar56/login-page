@@ -1,7 +1,7 @@
 # Login and Dashboard
 ## Technologies Used
 
-- **Frontend:** React.js, HTML,JavaScript
+- **Frontend:** React.js, HTML, JavaScript
 - **Styling:** CSS/Bootstrap
 
 
