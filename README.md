@@ -22,9 +22,10 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yasar56/login-page.git (or) Download it as a zip file.
+   git clone https://github.com/yasar56/login-page.git 
 
    ```
+   (or) Download it as a zip file.
 
 2. Navigate to the project directory:
 
