@@ -1,6 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
 import "../assests/css/dashboard.css";
-import AntLogo from "../assests/images/AntLogo.png";
 import Sidebar from "./Sidebar";
 
 export default function Dashboard() {
@@ -66,7 +65,7 @@ export default function Dashboard() {
   return (
     <div className="container-fluid">
       <div className="row ">
-        {/* <Navbar/> */}
+    
         <div className="col-md-3 col-sm-12 ">
           <Sidebar />
         </div>

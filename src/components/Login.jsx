@@ -70,8 +70,11 @@ export default function Login() {
           className="col-md-6 col-sm-12 p-0 "
           style={{ backgroundColor: "#FAFAFA", height: "100vh" }}
         >
+          
           <div className="container">
+            
             <div className="right row mx-3">
+            
               <div className="sign-up">
                 <div className="title d-flex justify-content-center align-items-center">
                   <img
@@ -112,7 +115,7 @@ export default function Login() {
               </div>
               }
               {activeTab === "Tab2" &&
-               <div className="login-cred">
+               <div className="login-cred fw-bold">
                 <div className="col p-2 d-flex justify-content-center ">
                   <img src={GitLab} alt="" />
                   <p className="ms-3">Self Hosted GitLab</p>
