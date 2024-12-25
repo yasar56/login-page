@@ -32,3 +32,24 @@ To set up the project locally, follow these steps:
    ```bash
    cd assignment
    ```
+
+
+## Installing React and Dependencies
+
+1. Initialize the React Project (if not already done):
+   If you don't have the create-react-app tool installed, you can install it globally using npm:
+
+   ```bash
+   npm install -g create-react-app
+
+   ```
+
+2. Install Project Dependencies:
+
+   Make sure you are in the project directory, then install all required dependencies:
+
+   ```bash
+    npm install
+
+   ```
+   
