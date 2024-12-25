@@ -100,11 +100,11 @@ export default function Dashboard() {
                 placeholder="Search Repositories..."
               />
             </div>
-            <div className="border-bottom mt-4"></div>
-            <div className="col-12 datas mt-2">
+            
+            <div className="col-12 datas mt-4">
               {RepoData.map((data) => (
-                <div className="repo-data p-2 border-bottom" key={data.id}>
-                  <div className="rows d-flex px-4">
+                <div className="repo-data p-2 border-top" key={data.id}>
+                  <div className="rows d-flex px-4 mt-2">
                     <h5>{data.title}</h5>
                     <span className="ms-2 text-center">{data.auth}</span>
                   </div>
@@ -121,6 +121,7 @@ export default function Dashboard() {
                   </ul>
                 </div>
               ))}
+              <div className="border-bottom"></div>
             </div>
           </div>
         </div>
