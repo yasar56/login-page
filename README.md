@@ -52,4 +52,19 @@ To set up the project locally, follow these steps:
     npm install
 
    ```
-   
+
+3. Run the Application:
+
+   Start the development server
+
+   The application will be available at http://localhost:3000/.
+
+   ```bash
+   npm start
+
+   ```
+
+## Usage
+
+The application will be available at http://localhost:3000/
+
