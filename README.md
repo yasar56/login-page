@@ -66,5 +66,8 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-The application will be available at http://localhost:3000/
+#### Navigate through the application:
+
+- By default, the Login Page will load when you visit http://localhost:3000/.
+- To view the dashboard, navigate to http://localhost:3000/dashboard.
 
